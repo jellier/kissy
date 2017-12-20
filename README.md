@@ -1,4 +1,4 @@
-# KISSY test fork
+# KISSY
 
 > A Powerful Collection Of Modules
 
